@@ -1,0 +1,2 @@
+*strikethrough*
+Github intro training
