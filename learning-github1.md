@@ -1,0 +1,2 @@
+*italico*
+__negrito__
