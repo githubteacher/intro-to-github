@@ -1,5 +1,5 @@
-*strikethroughtext*
-*italics*
+## GitHub Teacher Info
 
-Hello World
-
+  - [ ] Hometown Name
+  - [ ] Country of Hometown
+  - [ ] Favorite place to eat
